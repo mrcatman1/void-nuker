@@ -1,0 +1,11 @@
+1 go in config 
+2 edit the config file 
+3 run setup
+4 run start
+5 run the run file
+now type in the discord sever
+and here are the commands type !admin to give a members Admin
+!spam the thing you put in config
+!nuke to nuke the sever 
+!kick to kick a members 
+
